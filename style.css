@@ -1,0 +1,28 @@
+.name{
+    background-color: green;
+    color: white;
+}
+.profile{
+    background-color: orange;
+    color: white;
+}
+.work{
+    background-color: blue;
+}
+.work p{
+    color: white;
+}
+h2{
+    color: white;
+}
+.work ul{
+    color: white;
+}
+.education{
+    background-color: yellow;
+    color: white;
+}
+.skills{
+    background-color: purple;
+    color: white;
+}
